@@ -1,6 +1,6 @@
 # Photos
 
-![Screenshot (86)](https://user-images.githubusercontent.com/79022070/180644188-d622218a-85a2-4010-95ea-d6eee77088c5.png)
+![Screenshot (86)](https://user-images.githubusercontent.com/79022070/180644230-545f41aa-10b5-4227-940e-e8841e033fdf.png)
 
 # Getting Started with Create React App
 
